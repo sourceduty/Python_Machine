@@ -55,6 +55,8 @@ Develop a Pythonic Virtual Machine (VM) for a File Farm.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [File Farming](https://github.com/sourceduty/File_Farming)
+<br>
+[Computational VM](https://github.com/sourceduty/Computational_VM)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
